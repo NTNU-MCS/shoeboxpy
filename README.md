@@ -1,9 +1,9 @@
-[![DOI](https://zenodo.org/badge/959946842.svg)](https://doi.org/10.5281/zenodo.17277252)
-
 # shoeboxpy
 
+[![DOI](https://zenodo.org/badge/959946842.svg)](https://doi.org/10.5281/zenodo.17277252)
+
 <div align="center">
-    <img src="https://github.com/incebellipipo/shoeboxpy/blob/master/docs/assets/shoebox.webp" alt="shoeboxpy" width="400"/>
+    <img src="https://github.com/incebellipipo/shoeboxpy/blob/master/docs/assets/shoeboxpy.png?raw=true" alt="shoeboxpy" width="400"/>
 </div>
 
 ## Installation

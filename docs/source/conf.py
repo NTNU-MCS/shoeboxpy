@@ -111,7 +111,7 @@ html_theme_options = {
 
 # Project branding
 # Path to logo relative to this configuration directory
-html_logo = "../assets/shoebox.webp"
+html_logo = "../assets/shoeboxpy.png"
 
 # Add custom CSS for NTNU color palette overrides
 html_css_files = [
