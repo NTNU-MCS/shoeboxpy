@@ -5,7 +5,6 @@ import typing as tp
 
 import shoeboxpy.utils as utils
 from shoeboxpy.utils import skew
-import shoeboxpy.animate
 
 __all__ = ["Shoebox"]
 
@@ -662,6 +661,7 @@ class Shoebox:
 
 
 if __name__ == "__main__":
+    import shoeboxpy.animate
     # Example usage
     dt = 0.01
     T_total = 300.0
